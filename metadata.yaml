@@ -1,0 +1,31 @@
+_repo: A-Plain-and-Literal-Translation-of-the-Arabian-Nights-Entertainments-Now-Entituled-the-Book-o__55091
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Burton, Richard Francis, Sir
+    aliases:
+    - Baker, Frank
+    - Burton, R. F. (Richard F.), Sir
+    - Burton, Sir Richard Francis
+    birthdate: 1821
+    deathdate: 1890
+    gutenberg_agent_id: '898'
+    url: http://www.gutenberg.org/2009/agents/898
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Francis_Burton
+description: ''
+gutenberg_issued: '2017-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55091'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Arab countries'
+- !lcc 'PJ'
+- !lcsh 'Fairy tales -- Arab countries'
+- GITenberg
+title: A Plain and Literal Translation of the Arabian Nights Entertainments, Now Entituled
+  the Book of the Thousand Nights and a Night Volume 08 (of 17)
+url: http://www.gutenberg.org/ebooks/55091
